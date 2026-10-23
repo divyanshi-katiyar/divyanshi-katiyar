@@ -163,18 +163,6 @@ A grocery delivery application with customer and seller workflows.
 
 ---
 
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshi-katiyar&bg_color=0d1117&color=58a6ff&line=2ea043&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-
-</div>
-
-
----
-
 ## 🎓 Education & Certifications
 
 - **B.Tech in Computer Science & Engineering** — Vellore Institute of Technology Bhopal, 2023–2027
